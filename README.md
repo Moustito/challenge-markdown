@@ -1,6 +1,7 @@
 # Titouan Moussiaux
 *C’est votre cadre de référence qui décidera si le poulet a traversé la route ou si la route a traversé le poulet.*
-<img src="https://be.linkedin.com/in/titouan-moussiaux-325b111a2?trk=public_profile_browsemap_profile-result-card_result-card_full-click"/>
+
+ <img src="https://media-exp1.licdn.com/dms/image/C4D03AQEtsx0LqgnJnQ/profile-displayphoto-shrink_200_200/0/1581946801423?e=2147483647&v=beta&t=4RrVJUojHs_dn0DuwtjSgrtNO1bLwtqoFtDtKeJXvE8" alt="Photo de moi" width="100" height="100"> 
 
 
 ### Me
