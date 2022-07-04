@@ -1,6 +1,7 @@
 # Titouan Moussiaux
 *C’est votre cadre de référence qui décidera si le poulet a traversé la route ou si la route a traversé le poulet.*
-![Photo de Titouan](https://be.linkedin.com/in/titouan-moussiaux-325b111a2?trk=public_profile_browsemap_profile-result-card_result-card_full-click)
+<img src="https://be.linkedin.com/in/titouan-moussiaux-325b111a2?trk=public_profile_browsemap_profile-result-card_result-card_full-click">
+
 
 ### Me
 |       MY           |     INFORMATION       |
@@ -22,7 +23,7 @@
 	- Tenet
 
 ### You can always count on me when
-According to Quentin, my charisma is an asset for the group, in my opinion... ¯\_(ツ)_/¯.
+According to Quentin, my charisma is an asset for the group, in my opinion... ¯/\_(ツ)_/¯.
 
 ### A funny story
 One day, I was on my computer, when suddenly a scream sounded in front of my cat looking at a plastic bag. The scream sounded several times, before I got there. Once in front of the bag, it was a little frog screaming with fear when seeing my cat.
@@ -34,4 +35,4 @@ Cry of Frog
 
 *Cri de Grenouille*
 
-[<< Previous](https://github.com/selim9106/challenge-markdown#readme) || TITOUAN MOUSSIAUX || [Next >>](https://www.example.com)
+[<< Previous](https://github.com/selim9106/challenge-markdown#readme) || TITOUAN MOUSSIAUX || [Next >>](https://github.com/RinaldoBenaccetta/challenge_markdown)
