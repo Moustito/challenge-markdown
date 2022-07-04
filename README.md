@@ -9,7 +9,9 @@
 | Gender             | Male                  |
 | Favorite color     | Mustard Yellow        |
 | Favorite food      | Carré au thym et miel |
-| Pineapple one pizza| [x] yes [ ] no        |
+| Pineapple one pizza|
+- [x] yes
+- [ ] no        |
 
 ### Hobbies
  - Video games
