@@ -2,7 +2,7 @@
 *C’est votre cadre de référence qui décidera si le poulet a traversé la route ou si la route a traversé le poulet.*
 ![Photo de Titouan](https://be.linkedin.com/in/titouan-moussiaux-325b111a2?trk=public_profile_browsemap_profile-result-card_result-card_full-click)
 
-|                    Me        |             |
+|                    Me                      |
 |--------------------|-----------------------|
 | Birtday            | 7 July                |
 | Gender             | Male                  |
