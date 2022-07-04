@@ -36,4 +36,4 @@ Cry of Frog
 
 *Cri de Grenouille*
 
-[<< Previous](https://github.com/selim9106/challenge-markdown#readme) || TITOUAN MOUSSIAUX || [Next >>](https://github.com/RinaldoBenaccetta/challenge_markdown)
+<< Previous](https://github.com/selim9106/challenge-markdown#readme) || TITOUAN MOUSSIAUX || [Next >>](https://github.com/RinaldoBenaccetta/challenge_markdown)
